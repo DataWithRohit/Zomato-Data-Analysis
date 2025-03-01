@@ -36,3 +36,10 @@ The analysis aims to answer the following key questions:
 - Comparison of online vs. offline ratings  
 
 ## 📂 Project Structure  
+📁 Zomato-Data-Analysis
+├── 📜 Zomato_Project.ipynb # Jupyter Notebook with analysis
+├── 📜 dataset.csv # Dataset used
+├── 📜 README.md # Project Documentation
+├── 📜 Zomato_Project.html # HTML Export
+├── 📜 Zomato_Project.pdf # PDF Export
+├── 📸 image.png # Sample Image
